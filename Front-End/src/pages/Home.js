@@ -215,7 +215,7 @@ const Home = () => {
       </Container> 
       
       
-         <Container class1="home-wrapper-2 py-5">
+         {/* <Container class1="home-wrapper-2 py-5">
         <div className="row">
           <div className="col-12">
             <div className="servies d-flex align-items-center justify-content-between">
@@ -233,7 +233,7 @@ const Home = () => {
             </div>
           </div>
         </div>
-      </Container>  
+      </Container>   */}
 
 
     </>

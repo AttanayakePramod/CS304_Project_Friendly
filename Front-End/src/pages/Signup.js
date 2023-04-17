@@ -1,7 +1,7 @@
 import React from "react";
 import BreadCrumb from "../components/BreadCrum";
 import Meta from "../components/Meta";
-import { Link } from "react-router-dom";
+//import { Link } from "react-router-dom";
 import Container from "../components/container";
 import CustomInput from "../components/CustomInput";
 const Signup = () => {
